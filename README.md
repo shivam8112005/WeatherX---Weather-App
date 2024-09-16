@@ -1,1 +1,1 @@
-# WeatherX---Weather-App
+# Weather-App
